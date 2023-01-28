@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 <h1 align="center">Hi 💖, I'm Tayler</h1>
 <h3 align="center">A Computer Science Student from Virgina</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/QLh0PhunTj8AAAAC/anime-typing.gif">
